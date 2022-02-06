@@ -27,11 +27,13 @@ WIRING:
 &nbsp;
 
 CODING:
+
 Copy my PicoGpsLcdEr.py and scan.py files to Raspberry Pi Pico. Copy as well T-622's lcd_api.py and pico_i2c_lcd.py files to your Raspberry Pi Pico. Run the PicoGpsLcdEr.py file.
 
 &nbsp;
 
 CREDITS:
+
 Raspberry Pi Pico I2C LCD: https://github.com/T-622/RPI-PICO-I2C-LCD, https://www.youtube.com/watch?v=B8Kr_3xHjqE&t
 
 Raspberry Pi Pico GPS: https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
