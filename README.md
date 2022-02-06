@@ -5,6 +5,7 @@ This machine can be used when you want to find your specific GPS (global positio
 MATERIALS: Raspberry Pi Pico, Ublox Neo-6m GPS Module, 16x2 LCD Display with I2C, Wires
 
 &ensp;
+
 WIRING:
 
    . Pico Pin 5 to Ublox GPS TX
@@ -20,11 +21,13 @@ WIRING:
    . Pico Pin 38 to LCD GND
 
 &ensp;
+
 CODING:
 
 Copy my PicoGpsLcdEr.py and scan.py files to Raspberry Pi Pico. Copy as well T-622's lcd_api.py and pico_i2c_lcd.py files to your Raspberry Pi Pico. Run the PicoGpsLcdEr.py file.
 
 &ensp;
+
 CREDITS:
 
 Raspberry Pi Pico I2C LCD: https://github.com/T-622/RPI-PICO-I2C-LCD, https://www.youtube.com/watch?v=B8Kr_3xHjqE&t
