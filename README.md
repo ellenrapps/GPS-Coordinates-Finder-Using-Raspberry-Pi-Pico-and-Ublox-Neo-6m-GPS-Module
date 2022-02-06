@@ -4,7 +4,7 @@ This machine can be used when you want to find your specific GPS (global positio
 
 MATERIALS: Raspberry Pi Pico, Ublox Neo-6m GPS Module, 16x2 LCD Display with I2C, Wires
 
-&ensp;
+&nbsp;
 
 WIRING:
 
