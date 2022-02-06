@@ -1,14 +1,8 @@
 Lost? Find your way via Raspberry Pi Pico, Ublox Neo-6m GPS Module, and 16x2 LCD Display with I2C
 
-&nbsp;
-
 This machine can be used when you want to find your specific GPS (global positioning system) coordinates. While, the code looks for latitude, longitude, number of satellites, and GPS time, only the latitude and longitude are outputted on the LCD display.
 
-&nbsp;
-
 MATERIALS: Raspberry Pi Pico, Ublox Neo-6m GPS Module, 16x2 LCD Display with I2C, Wires
-
-&nbsp;
 
 WIRING:
 
@@ -24,13 +18,9 @@ WIRING:
 	
    Pico Pin 38 to LCD GND
 
-&nbsp;
-
 CODING:
 
 Copy my PicoGpsLcdEr.py and scan.py files to Raspberry Pi Pico. Copy as well T-622's lcd_api.py and pico_i2c_lcd.py files to your Raspberry Pi Pico. Run the PicoGpsLcdEr.py file.
-
-&nbsp;
 
 CREDITS:
 
