@@ -38,7 +38,7 @@ CREDITS:
 
 Raspberry Pi Pico I2C LCD: https://github.com/T-622/RPI-PICO-I2C-LCD
 
-Raspberry Pi Pico GPS: https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps2-rpi-pico/gps2-rpi-pico.py
+Raspberry Pi Pico GPS: https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
 
 
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
