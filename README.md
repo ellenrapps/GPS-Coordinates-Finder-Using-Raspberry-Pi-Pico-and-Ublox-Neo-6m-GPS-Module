@@ -36,4 +36,6 @@ Raspberry Pi Pico GPS: https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-r
 
 &nbsp;
 
+DONATION
+
 Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
