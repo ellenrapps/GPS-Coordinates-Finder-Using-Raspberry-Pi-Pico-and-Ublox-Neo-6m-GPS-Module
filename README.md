@@ -6,17 +6,17 @@ MATERIALS: Raspberry Pi Pico, Ublox Neo-6m GPS Module, 16x2 LCD Display with I2C
 
 WIRING:
 
-   Pico Pin 5 to Ublox GPS TX
+   . Pico Pin 5 to Ublox GPS TX
 	
-   Pico Pin 3 to Ublo GPS GND
+   . Pico Pin 3 to Ublo GPS GND
 	
-   Pico Pin 40 to Ublox GPS VCC and to LCD VCC
+   . Pico Pin 40 to Ublox GPS VCC and to LCD VCC
 	
-   Pico Pin 1 to LCD SDA
+   . Pico Pin 1 to LCD SDA
 	
-   Pico Pin 2 to LCD SCL
+   . Pico Pin 2 to LCD SCL
 	
-   Pico Pin 38 to LCD GND
+   . Pico Pin 38 to LCD GND
 
 CODING:
 
