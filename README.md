@@ -29,10 +29,15 @@ Copy my PicoGpsLcdEr.py and scan.py files to Raspberry Pi Pico. Copy as well T-6
 &ensp;
 
 CREDITS:
+T-622
+https://github.com/T-622/RPI-PICO-I2C-LCD 
 
-Raspberry Pi Pico I2C LCD: https://github.com/T-622/RPI-PICO-I2C-LCD, https://www.youtube.com/watch?v=B8Kr_3xHjqE&t (Tinkernut)
+Tinkernut
+https://www.youtube.com/watch?v=B8Kr_3xHjqE&t
 
-Raspberry Pi Pico GPS: https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
+Ahmad Logs
+https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
+https://www.youtube.com/watch?v=Hd-BMknrZdg
 
 &nbsp;
 
