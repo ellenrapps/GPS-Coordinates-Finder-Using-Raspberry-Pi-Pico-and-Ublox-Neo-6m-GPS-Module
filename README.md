@@ -29,6 +29,7 @@ Copy my PicoGpsLcdEr.py and scan.py files to Raspberry Pi Pico. Copy as well T-6
 &ensp;
 
 CREDITS:
+
 T-622
 https://github.com/T-622/RPI-PICO-I2C-LCD 
 
