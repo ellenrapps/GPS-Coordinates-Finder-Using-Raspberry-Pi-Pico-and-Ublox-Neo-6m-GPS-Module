@@ -1,4 +1,4 @@
-Lost? Find your way, no internet connection needed, via Raspberry Pi Pico, Ublox Neo-6m GPS Module, and 16x2 LCD Display with I2C
+Lost? Find your way – no internet connection needed – via Raspberry Pi Pico, Ublox Neo-6m GPS Module, and 16x2 LCD Display with I2C
 
 This machine can be used when you want to find your specific GPS (global positioning system) coordinates. While, the code looks for latitude, longitude, number of satellites, and GPS time, only the latitude and longitude are outputted on the LCD display.
 
