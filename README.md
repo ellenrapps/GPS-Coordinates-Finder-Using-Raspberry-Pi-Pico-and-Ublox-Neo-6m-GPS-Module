@@ -41,7 +41,3 @@ https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
 https://www.youtube.com/watch?v=Hd-BMknrZdg
 
 &nbsp;
-
-DONATION
-
-Ellenrapps accepts Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
