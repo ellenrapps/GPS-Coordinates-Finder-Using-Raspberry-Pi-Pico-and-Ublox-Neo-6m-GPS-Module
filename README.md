@@ -1,6 +1,6 @@
-######
+-----
 Support my work via Bitcoin donation: bc1qdxglsvq6tzqcwrd0zhcva9ww2y7hz879600exs
-######
+-----
 
 
 Lost? Find your way – no internet connection needed – via Raspberry Pi Pico, Ublox Neo-6m GPS Module, and 16x2 LCD Display with I2C
