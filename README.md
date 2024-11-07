@@ -1,4 +1,5 @@
-Support my work via Bitcoin donation: 
+Support my work via Bitcoin donation:
+
 3PBQZaxNh1U5pmKQ3zSboVfSedTJ5jYdBs
 
 or
