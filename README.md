@@ -41,3 +41,10 @@ https://github.com/ahmadlogs/rpi-pico-upy/blob/main/gps-rpi-pico/gps-rpi-pico.py
 https://www.youtube.com/watch?v=Hd-BMknrZdg
 
 &nbsp;
+
+Support my work via:
+
+GitHub Sponsors: https://github.com/sponsors/ellenrapps
+
+Bitcoin donation: 3GokAX3um2nZVVU2Z22BfzmqYobvs9nnnW
+
